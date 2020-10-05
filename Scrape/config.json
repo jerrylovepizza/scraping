@@ -1,0 +1,120 @@
+{
+  "days": 7,
+  "websites": [
+    {
+      "name": "Editas Medicine",
+      "url": "editasmedicine.com",
+      "real": "https://ir.editasmedicine.com/press-releases"
+    },
+    {
+      "name": "Intellia Therapeutics",
+      "url": "intelliatx.com",
+      "real": "https://ir.intelliatx.com/news-releases"
+    },
+    {
+      "name": "CRISPR Therapeutics",
+      "url": "crisprtx.com",
+      "real": "http://www.crisprtx.com/about-us/press-releases-and-presentations/all-press"
+    },
+    {
+      "name": "Beam Therapeutics",
+      "url": "beamtx.com",
+      "real": "https://investors.beamtx.com/press-releases"
+    },
+    {
+      "name": "Bluebird Bio",
+      "url": "bluebirdbio.com",
+      "real": "http://investor.bluebirdbio.com/news-releases"
+    },    
+    {
+      "name": "Sarepta Therapeutics",
+      "url": "sarepta.com",
+      "real": "https://investorrelations.sarepta.com/press-releases"
+    },
+    {
+      "name": "RegenxBio",
+      "url": "regenxbio.com",
+      "real" : "https://regenxbio.gcs-web.com/press-releases"
+    },
+    {
+      "name": "MeiraGTx",
+      "url": "meiragtx.com",
+      "real": "https://investors.meiragtx.com/news-releases"
+    },
+    {
+      "name": "Orchard Therapeutics",
+      "url": "orchard-tx.com",
+      "real": "https://ir.orchard-tx.com/news-events/press-releases"
+    },
+    {
+      "name": "Axovant Gene Therapies",
+      "url": "axovant.com",
+      "real": "http://investors.axovant.com/investors/press-releases"
+    },
+    {
+      "name": "Passage Bio",
+      "url": "passagebio.com",
+      "real": "https://investors.passagebio.com/news-and-events/press-releases"
+    },
+    {
+      "name": "Rocket Pharmaceuticals",
+      "url": "rocketpharma.com",
+      "real": "https://rocketpharmaceuticals.gcs-web.com/news-releases"
+    },
+    {
+      "name": "Decibel Therapeutics",
+      "url": "decibeltx.com",
+      "real": "https://www.decibeltx.com/news/"
+    },
+    {
+      "name": "Sana Biotechnology",
+      "url": "sana.com",
+      "real": "https://sana.com/category/press-release/"
+    },
+    {
+      "name": "Century Therapeutics",
+      "url": "centurytx.com",
+      "real": "https://www.centurytx.com/media-news-pr"
+    },
+    {
+      "name": "Allogene Therapeutics",
+      "url": "allogene.com",
+      "real": "https://ir.allogene.com/press-releases"
+    },
+    {
+      "name": "Unity Biotechnology",
+      "url": "unitybiotechnology.com",
+      "real": "http://ir.unitybiotechnology.com/press-releases"
+
+    },
+    {
+      "name": "Navitor Pharmaceuticals",
+      "url": "navitorpharma.com",
+      "real": "http://www.navitorpharma.com/news/press-releases/"
+    },
+    {
+      "name": "resTOR Bio",
+      "url": "restorbio.com",
+      "real": "https://ir.restorbio.com/news-and-events/news-releases"
+    },
+    {
+      "name": "Arsenal Bio",
+      "url": "arsenalbio.com",
+      "real": "https://www.arsenalbio.com/"
+    },
+    {
+      "name": "Sonoma Biosciences",
+      "url": "sonomapharma.com",
+      "real": "https://ir.sonomapharma.com/press-releases"
+    },
+    {
+      "name": "uniQure NV",
+      "url": "uniqure.com",
+      "real": "http://uniqure.com/investors-newsroom/press-releases.php"
+    }
+  ],
+  "sender": "troyks00055@gmail.com",     
+  "receiver": "ddshah27@gmail.com",
+  "webdriver": "D:\\driver\\chromedriver.exe",
+  "sendgrid": "SG.1DAR1P4PQaa-v14bMHAPIA.0sbpjSHAi_a7Gf8_4d9IkP3IN_dWAWNybZ9KPEPA5iM"
+}
